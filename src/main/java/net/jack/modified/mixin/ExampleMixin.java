@@ -1,4 +1,4 @@
-package net.fabricmc.example.mixin;
+package net.jack.modified.mixin;
 
 import net.fabricmc.example.ExampleMod;
 import net.jack.modified.ModifiedSurvival;

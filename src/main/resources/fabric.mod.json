@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "net.net.jack.modified.ModifiedSurvival"
     ]
   },
   "mixins": [
