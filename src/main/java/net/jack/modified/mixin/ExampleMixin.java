@@ -1,6 +1,6 @@
 package net.jack.modified.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import net.jack.modified.ModifiedSurvival;
 import net.jack.modified.ModifiedSurvival;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
