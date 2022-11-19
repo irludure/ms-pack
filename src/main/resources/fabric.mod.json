@@ -19,11 +19,11 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.net.jack.modified.ModifiedSurvival"
+      "net.jack.modified.ModifiedSurvival"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "modified.mixins.json"
   ],
 
   "depends": {
